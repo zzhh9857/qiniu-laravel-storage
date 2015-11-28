@@ -1,5 +1,6 @@
 *.phar
 *.zip
+.idea
 build/artifacts
 phpunit.xml
 phpunit.functional.xml
